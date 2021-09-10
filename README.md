@@ -1,7 +1,7 @@
 # ToDoAngularApp
 
 ## Screenshots
-url[https://github.com/Methujan/toDo-Angular-app/blob/master/docs/todo_interface.PNG]
+url["https://github.com/Methujan/toDo-Angular-app/blob/master/docs/todo_interface.PNG"]
 
 This is a simple ToDo App. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
 
